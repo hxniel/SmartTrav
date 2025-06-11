@@ -1,0 +1,301 @@
+destino,tipo,popularidad,precio,clima,idioma,continente,rating,estacion
+Nueva York,urbano,media,alto,continental,inglés,América,alto,otoño
+Tokio,urbano,baja,medio,templado,japonés,Asia,bajo,verano
+París,urbano,baja,medio,templado,francés,Europa,bajo,verano
+Dubái,urbano,alta,alto,árido,árabe,Asia,alto,primavera
+Londres,urbano,alta,alto,templado,inglés,Europa,medio,verano
+Toronto,urbano,alta,bajo,continental,inglés,América,alto,primavera
+Singapur,urbano,alta,medio,tropical,inglés,Asia,medio,invierno
+Chicago,urbano,baja,alto,continental,inglés,América,alto,verano
+Madrid,urbano,media,medio,templado,español,Europa,bajo,primavera
+Hong Kong,urbano,media,alto,subtropical,chino,Asia,bajo,primavera
+Sídney,urbano,alta,bajo,templado,inglés,Oceanía,medio,otoño
+Ámsterdam,urbano,alta,medio,templado,neerlandés,Europa,medio,otoño
+Berlín,urbano,media,alto,continental,alemán,Europa,bajo,invierno
+Los Ángeles,urbano,baja,medio,templado,inglés,América,alto,otoño
+Seúl,urbano,alta,medio,continental,coreano,Asia,alto,primavera
+Estocolmo,urbano,media,bajo,continental,sueco,Europa,medio,invierno
+Moscú,urbano,alta,bajo,continental,ruso,Europa,medio,verano
+Milán,urbano,media,alto,mediterráneo,italiano,Europa,medio,otoño
+Bruselas,urbano,baja,medio,oceánico,francés,Europa,medio,verano
+Vancouver,urbano,alta,medio,templado,inglés,América,medio,primavera
+Singapur Ciudad,urbano,alta,medio,tropical,inglés,Asia,bajo,primavera
+París Ciudad,urbano,alta,bajo,oceánico,francés,Europa,bajo,otoño
+Bruselas Centro,urbano,baja,medio,oceánico,francés,Europa,medio,verano
+Hong Kong Capital,urbano,alta,alto,subtropical,chino,Asia,alto,primavera
+Los Ángeles Centro,urbano,baja,medio,mediterráneo,inglés,América,bajo,otoño
+Chicago Ciudad,urbano,alta,bajo,continental,inglés,América,alto,verano
+Tokio Centro,urbano,media,alto,subtropical,japonés,Asia,bajo,otoño
+Moscú Centro,urbano,alta,alto,continental,ruso,Europa,medio,otoño
+Estocolmo Capital,urbano,alta,bajo,continental,sueco,Europa,medio,otoño
+Nueva York Ciudad,urbano,alta,bajo,subtropical,inglés,América,bajo,primavera
+Singapur Ciudad,urbano,alta,medio,tropical,inglés,Asia,bajo,verano
+Los Ángeles Capital,urbano,baja,bajo,mediterráneo,inglés,América,alto,otoño
+Berlín Centro,urbano,media,bajo,oceánico,alemán,Europa,medio,primavera
+Estocolmo Ciudad,urbano,baja,medio,continental,sueco,Europa,bajo,otoño
+Tokio Centro Ciudad,urbano,alta,alto,subtropical,japonés,Asia,medio,verano
+Hong Kong Capital Centro,urbano,baja,medio,subtropical,chino,Asia,bajo,otoño
+Tokio Capital,urbano,alta,alto,subtropical,japonés,Asia,medio,invierno
+Los Ángeles Centro Capital,urbano,alta,alto,mediterráneo,inglés,América,alto,verano
+Nueva York Ciudad,urbano,baja,alto,subtropical,inglés,América,medio,invierno
+Londres Centro,urbano,alta,bajo,oceánico,inglés,Europa,bajo,verano
+Estocolmo Capital Centro,urbano,baja,alto,continental,sueco,Europa,medio,invierno
+Berlín Centro Capital,urbano,baja,bajo,oceánico,alemán,Europa,bajo,primavera
+Ámsterdam Capital,urbano,alta,alto,oceánico,neerlandés,Europa,medio,otoño
+Singapur Ciudad Ciudad,urbano,baja,medio,tropical,inglés,Asia,bajo,primavera
+Tokio Capital Centro,urbano,alta,bajo,subtropical,japonés,Asia,alto,invierno
+Chicago Ciudad Centro,urbano,baja,bajo,continental,inglés,América,medio,verano
+Londres Capital,urbano,alta,medio,oceánico,inglés,Europa,alto,verano
+Tokio Centro,urbano,media,bajo,subtropical,japonés,Asia,alto,primavera
+Toronto Capital,urbano,baja,medio,continental,inglés,América,alto,invierno
+Estocolmo Ciudad Centro,urbano,alta,medio,continental,sueco,Europa,alto,invierno
+Tokio Capital,urbano,baja,bajo,subtropical,japonés,Asia,alto,otoño
+Londres Centro Ciudad,urbano,media,bajo,oceánico,inglés,Europa,alto,verano
+Chicago Ciudad Centro Centro,urbano,alta,bajo,continental,inglés,América,bajo,primavera
+Madrid Ciudad,urbano,alta,medio,mediterráneo,español,Europa,medio,primavera
+Tokio Centro Ciudad Ciudad,urbano,media,medio,subtropical,japonés,Asia,medio,primavera
+Berlín Capital,urbano,baja,bajo,oceánico,alemán,Europa,alto,primavera
+Singapur Centro,urbano,media,alto,tropical,inglés,Asia,medio,invierno
+Los Ángeles Capital Ciudad,urbano,media,alto,mediterráneo,inglés,América,alto,invierno
+Hong Kong Capital,urbano,media,medio,subtropical,chino,Asia,bajo,invierno
+Dubái Ciudad,urbano,baja,alto,desértico,árabe,Asia,alto,primavera
+Cancún,playa,alta,bajo,tropical,español,América,alto,verano
+Phuket,playa,media,medio,tropical,tailandés,Asia,bajo,invierno
+Río de Janeiro,playa,baja,bajo,tropical,portugués,América,alto,verano
+Bali,playa,alta,bajo,tropical,indonesio,Asia,bajo,primavera
+Maldivas,playa,alta,alto,tropical,dhivehi,Asia,alto,otoño
+Barbados,playa,media,medio,tropical,inglés,América,bajo,invierno
+Honolulu,playa,media,medio,tropical,inglés,América,bajo,otoño
+Miami,playa,media,alto,subtropical,inglés,América,medio,verano
+Ibiza,playa,alta,medio,mediterráneo,español,Europa,alto,otoño
+Santorini,playa,alta,bajo,mediterráneo,griego,Europa,medio,primavera
+Mykonos,playa,media,medio,mediterráneo,griego,Europa,bajo,otoño
+Zanzíbar,playa,alta,medio,tropical,suajili,África,alto,invierno
+Boracay,playa,baja,alto,tropical,filipino,Asia,bajo,verano
+Palawan,playa,media,bajo,tropical,filipino,Asia,alto,verano
+Gold Coast,playa,media,alto,subtropical,inglés,Oceanía,alto,verano
+Cabo San Lucas,playa,baja,bajo,desértico,español,América,bajo,otoño
+Punta Cana,playa,baja,medio,tropical,español,América,alto,primavera
+Cartagena,playa,alta,medio,tropical,español,América,alto,primavera
+Creta,playa,media,medio,mediterráneo,griego,Europa,alto,primavera
+Niza,playa,baja,bajo,mediterráneo,francés,Europa,medio,invierno
+Miami Ciudad,playa,media,bajo,subtropical,inglés,América,alto,primavera
+Punta Cana Capital,playa,alta,bajo,tropical,español,América,bajo,primavera
+Phuket Ciudad,playa,baja,alto,tropical,tailandés,Asia,bajo,otoño
+Cartagena Ciudad,playa,media,alto,tropical,español,América,bajo,invierno
+Barbados Ciudad,playa,baja,bajo,tropical,inglés,América,bajo,verano
+Ibiza Ciudad,playa,alta,alto,mediterráneo,español,Europa,alto,otoño
+Cabo San Lucas Capital,playa,alta,alto,desértico,español,América,medio,primavera
+Palawan Capital,playa,baja,bajo,tropical,filipino,Asia,bajo,otoño
+Creta Capital,playa,media,medio,mediterráneo,griego,Europa,alto,primavera
+Río de Janeiro Capital,playa,baja,alto,tropical,portugués,América,bajo,primavera
+Gold Coast Ciudad,playa,alta,medio,subtropical,inglés,Oceanía,bajo,otoño
+Zanzíbar Centro,playa,media,bajo,tropical,suajili,África,alto,otoño
+Cartagena Ciudad,playa,alta,bajo,tropical,español,América,bajo,otoño
+Punta Cana Ciudad,playa,media,alto,tropical,español,América,alto,otoño
+Miami Ciudad Ciudad,playa,baja,bajo,subtropical,inglés,América,medio,verano
+Barbados Centro,playa,alta,bajo,tropical,inglés,América,medio,invierno
+Phuket Centro,playa,alta,bajo,tropical,tailandés,Asia,medio,invierno
+Barbados Ciudad Ciudad,playa,media,medio,tropical,inglés,América,bajo,otoño
+Creta Capital,playa,baja,alto,mediterráneo,griego,Europa,bajo,primavera
+Ibiza Ciudad Centro,playa,alta,alto,mediterráneo,español,Europa,medio,verano
+Cartagena Ciudad Capital,playa,media,alto,tropical,español,América,bajo,verano
+Barbados Ciudad Ciudad Centro,playa,baja,bajo,tropical,inglés,América,alto,verano
+Phuket Centro Capital,playa,alta,bajo,tropical,tailandés,Asia,alto,verano
+Creta Centro,playa,alta,medio,mediterráneo,griego,Europa,medio,otoño
+Cabo San Lucas Centro,playa,alta,bajo,desértico,español,América,medio,primavera
+Punta Cana Capital Ciudad,playa,media,alto,tropical,español,América,bajo,otoño
+Ibiza Ciudad,playa,baja,alto,mediterráneo,español,Europa,medio,otoño
+Zanzíbar Capital,playa,media,bajo,tropical,suajili,África,bajo,verano
+Bali Capital,playa,alta,medio,tropical,indonesio,Asia,alto,otoño
+Punta Cana Centro,playa,media,medio,tropical,español,América,alto,verano
+Barbados Ciudad Capital,playa,alta,bajo,tropical,inglés,América,bajo,verano
+Barbados Ciudad Ciudad Centro Ciudad,playa,media,alto,tropical,inglés,América,alto,otoño
+Cartagena Ciudad Capital Ciudad,playa,alta,bajo,tropical,español,América,alto,verano
+Creta Centro,playa,baja,bajo,mediterráneo,griego,Europa,alto,verano
+Creta Capital Capital,playa,alta,medio,mediterráneo,griego,Europa,medio,otoño
+Zanzíbar Capital,playa,media,medio,tropical,suajili,África,medio,primavera
+Ibiza Ciudad Centro,playa,media,bajo,mediterráneo,español,Europa,alto,otoño
+Miami Ciudad Capital,playa,baja,medio,subtropical,inglés,América,alto,primavera
+Honolulu Capital,playa,media,medio,tropical,inglés,América,medio,verano
+Phuket Centro Ciudad,playa,alta,bajo,tropical,tailandés,Asia,medio,primavera
+Interlaken,montaña,alta,bajo,alpino,alemán,Europa,bajo,verano
+Zermatt,montaña,baja,alto,alpino,alemán,Europa,bajo,primavera
+Chamonix,montaña,baja,alto,alpino,francés,Europa,medio,otoño
+Banff,montaña,baja,medio,subártico,inglés,América,medio,invierno
+Aspen,montaña,baja,medio,continental,inglés,América,alto,primavera
+Bariloche,montaña,alta,bajo,templado húmedo,español,América,alto,primavera
+Innsbruck,montaña,baja,bajo,alpino,alemán,Europa,alto,verano
+Cuzco,montaña,alta,medio,templado de altura,español,América,medio,invierno
+Queenstown,montaña,alta,alto,oceánico montañoso,inglés,Oceanía,medio,verano
+Telluride,montaña,baja,alto,alpino,inglés,América,bajo,verano
+Grindelwald,montaña,media,bajo,alpino,alemán,Europa,alto,verano
+Andorra la Vella,montaña,baja,bajo,alpino,catalán,Europa,alto,verano
+Hallstatt,montaña,media,medio,alpino,alemán,Europa,alto,primavera
+Tromsø,montaña,media,medio,subártico,noruego,Europa,medio,verano
+Nagano,montaña,baja,medio,continental,japonés,Asia,alto,verano
+La Paz,montaña,baja,medio,templado de altura,español,América,bajo,otoño
+Valle Nevado,montaña,baja,bajo,alpino,español,América,medio,verano
+Arequipa,montaña,media,alto,templado de altura,español,América,alto,invierno
+Kitzbühel,montaña,baja,medio,alpino,alemán,Europa,medio,verano
+Merano,montaña,baja,medio,templado,alemán,Europa,bajo,invierno
+Bariloche Capital,montaña,baja,medio,templado húmedo,español,América,medio,invierno
+Aspen Ciudad,montaña,alta,bajo,continental,inglés,América,medio,invierno
+Kitzbühel Capital,montaña,media,bajo,alpino,alemán,Europa,bajo,verano
+La Paz Ciudad,montaña,alta,medio,templado de altura,español,América,bajo,invierno
+Innsbruck Capital,montaña,alta,alto,alpino,alemán,Europa,medio,otoño
+Cuzco Ciudad,montaña,alta,alto,templado de altura,español,América,bajo,primavera
+Queenstown Capital,montaña,media,alto,oceánico montañoso,inglés,Oceanía,medio,invierno
+Grindelwald Centro,montaña,baja,alto,alpino,alemán,Europa,alto,primavera
+Nagano Ciudad,montaña,media,medio,continental,japonés,Asia,medio,invierno
+Valle Nevado Centro,montaña,alta,alto,alpino,español,América,bajo,primavera
+Andorra la Vella Ciudad,montaña,media,bajo,alpino,catalán,Europa,alto,primavera
+Banff Centro,montaña,baja,alto,subártico,inglés,América,medio,verano
+Valle Nevado Centro Ciudad,montaña,alta,medio,alpino,español,América,medio,invierno
+Innsbruck Capital Ciudad,montaña,baja,alto,alpino,alemán,Europa,alto,invierno
+Interlaken Centro,montaña,alta,medio,alpino,alemán,Europa,medio,primavera
+Queenstown Capital Ciudad,montaña,baja,alto,oceánico montañoso,inglés,Oceanía,alto,invierno
+Kitzbühel Capital,montaña,alta,medio,alpino,alemán,Europa,bajo,verano
+Aspen Ciudad Centro,montaña,alta,bajo,continental,inglés,América,medio,otoño
+Merano Centro,montaña,media,bajo,templado,alemán,Europa,medio,invierno
+Nagano Ciudad Ciudad,montaña,alta,alto,continental,japonés,Asia,medio,verano
+Telluride Capital,montaña,baja,alto,alpino,inglés,América,bajo,primavera
+Valle Nevado Ciudad,montaña,media,bajo,alpino,español,América,bajo,verano
+Interlaken Ciudad,montaña,alta,bajo,alpino,alemán,Europa,alto,otoño
+Innsbruck Capital,montaña,baja,alto,alpino,alemán,Europa,alto,invierno
+Kitzbühel Capital Ciudad,montaña,media,alto,alpino,alemán,Europa,alto,otoño
+Cuzco Ciudad Capital,montaña,alta,bajo,templado de altura,español,América,alto,invierno
+Kitzbühel Centro,montaña,alta,bajo,alpino,alemán,Europa,bajo,invierno
+Banff Centro Centro,montaña,baja,medio,subártico,inglés,América,bajo,otoño
+Andorra la Vella Capital,montaña,baja,medio,alpino,catalán,Europa,alto,primavera
+Hallstatt Ciudad,montaña,baja,medio,alpino,alemán,Europa,bajo,primavera
+Kitzbühel Capital Ciudad Ciudad,montaña,alta,medio,alpino,alemán,Europa,medio,verano
+Aspen Ciudad Centro,montaña,baja,alto,continental,inglés,América,alto,verano
+Innsbruck Ciudad,montaña,alta,alto,alpino,alemán,Europa,bajo,otoño
+Banff Centro Centro Capital,montaña,alta,medio,subártico,inglés,América,alto,verano
+Valle Nevado Centro Ciudad,montaña,baja,bajo,alpino,español,América,bajo,primavera
+Nagano Ciudad Ciudad Capital,montaña,alta,alto,continental,japonés,Asia,bajo,otoño
+Aspen Ciudad Centro Centro,montaña,baja,bajo,continental,inglés,América,bajo,otoño
+Zermatt Capital,montaña,media,medio,alpino,alemán,Europa,alto,invierno
+Interlaken Ciudad Ciudad,montaña,baja,bajo,alpino,alemán,Europa,bajo,invierno
+Hallstatt Ciudad Ciudad,montaña,media,medio,alpino,alemán,Europa,medio,primavera
+Roma,histórico,alta,bajo,templado,italiano,Europa,bajo,primavera
+Atenas,histórico,baja,medio,mediterráneo,griego,Europa,bajo,verano
+Petra,histórico,alta,bajo,desértico,árabe,Asia,bajo,invierno
+Jerusalén,histórico,alta,bajo,árido,hebreo,Europa,medio,verano
+Kioto,histórico,baja,alto,subtropical,japonés,Asia,bajo,otoño
+Luang Prabang,histórico,baja,medio,tropical,laosiano,Asia,medio,primavera
+Praga,histórico,alta,bajo,continental,checo,Europa,medio,primavera
+Estambul,histórico,media,medio,templado,turco,Europa,bajo,invierno
+Florencia,histórico,media,medio,mediterráneo,italiano,Europa,medio,primavera
+Cracovia,histórico,media,medio,continental,polaco,Europa,medio,invierno
+Cartago,histórico,media,bajo,templado,español,América,bajo,verano
+Fez,histórico,alta,medio,semiárido,árabe,África,alto,invierno
+Cusco,histórico,media,bajo,templado de altura,español,América,alto,invierno
+Teotihuacán,histórico,alta,bajo,árido,español,América,alto,verano
+Xi'an,histórico,alta,bajo,continental,chino,Asia,medio,otoño
+Dubrovnik,histórico,baja,alto,mediterráneo,croata,Europa,bajo,otoño
+Granada,histórico,alta,medio,mediterráneo,español,Europa,bajo,verano
+Delphi,histórico,baja,medio,mediterráneo,griego,Europa,bajo,otoño
+Brugge,histórico,alta,bajo,oceánico,neerlandés,Europa,bajo,otoño
+Éfeso,histórico,baja,bajo,mediterráneo,griego,Asia,bajo,verano
+Cracovia Centro,histórico,baja,alto,continental,polaco,Europa,bajo,invierno
+Petra Ciudad,histórico,media,medio,desértico,árabe,Asia,medio,primavera
+Kioto Centro,histórico,alta,bajo,subtropical,japonés,Asia,medio,verano
+Dubrovnik Centro,histórico,media,alto,mediterráneo,croata,Europa,medio,otoño
+Florencia Capital,histórico,media,alto,mediterráneo,italiano,Europa,bajo,otoño
+Granada Capital,histórico,alta,medio,mediterráneo,español,Europa,alto,otoño
+Éfeso Ciudad,histórico,baja,medio,mediterráneo,griego,Asia,medio,verano
+Fez Ciudad,histórico,media,alto,semiárido,árabe,África,alto,verano
+Cusco Centro,histórico,media,medio,templado de altura,español,América,alto,invierno
+Jerusalén Ciudad,histórico,baja,bajo,mediterráneo,hebreo,Europa,bajo,primavera
+Brugge Centro,histórico,baja,alto,oceánico,neerlandés,Europa,bajo,otoño
+Fez Ciudad Centro,histórico,baja,alto,semiárido,árabe,África,alto,invierno
+Fez Centro,histórico,media,bajo,semiárido,árabe,África,alto,invierno
+Cracovia Centro Centro,histórico,baja,alto,continental,polaco,Europa,medio,primavera
+Delphi Ciudad,histórico,media,alto,mediterráneo,griego,Europa,alto,verano
+Atenas Capital,histórico,baja,medio,mediterráneo,griego,Europa,alto,verano
+Éfeso Centro,histórico,media,medio,mediterráneo,griego,Asia,bajo,primavera
+Dubrovnik Centro Centro,histórico,alta,medio,mediterráneo,croata,Europa,medio,otoño
+Jerusalén Capital,histórico,media,medio,mediterráneo,hebreo,Europa,alto,verano
+Petra Capital,histórico,baja,medio,desértico,árabe,Asia,medio,verano
+Delphi Ciudad,histórico,media,alto,mediterráneo,griego,Europa,alto,invierno
+Brugge Ciudad,histórico,baja,medio,oceánico,neerlandés,Europa,alto,otoño
+Jerusalén Ciudad,histórico,alta,medio,mediterráneo,hebreo,Europa,alto,invierno
+Teotihuacán Capital,histórico,baja,alto,árido,español,América,medio,otoño
+Cracovia Centro Centro Centro,histórico,baja,bajo,continental,polaco,Europa,medio,verano
+Fez Ciudad Centro Capital,histórico,alta,bajo,semiárido,árabe,África,medio,verano
+Jerusalén Ciudad Capital,histórico,media,alto,mediterráneo,hebreo,Europa,alto,invierno
+Delphi Ciudad Capital,histórico,media,bajo,mediterráneo,griego,Europa,bajo,invierno
+Cracovia Centro,histórico,media,alto,continental,polaco,Europa,alto,primavera
+Xi'an Capital,histórico,alta,alto,continental,chino,Asia,medio,primavera
+Granada Ciudad,histórico,alta,medio,mediterráneo,español,Europa,medio,verano
+Roma Ciudad,histórico,alta,bajo,mediterráneo,italiano,Europa,alto,invierno
+Florencia Capital Capital,histórico,baja,bajo,mediterráneo,italiano,Europa,medio,primavera
+Cusco Centro Ciudad,histórico,baja,medio,templado de altura,español,América,alto,verano
+Estambul Capital,histórico,alta,alto,mediterráneo,turco,Europa,medio,verano
+Cusco Ciudad,histórico,media,medio,templado de altura,español,América,alto,verano
+Fez Ciudad Centro Capital Centro,histórico,media,medio,semiárido,árabe,África,bajo,invierno
+Fez Ciudad Centro Centro,histórico,media,medio,semiárido,árabe,África,medio,primavera
+Jerusalén Ciudad Capital,histórico,media,medio,mediterráneo,hebreo,Europa,medio,primavera
+Petra Ciudad Ciudad,histórico,media,alto,desértico,árabe,Asia,bajo,otoño
+Lima,gastronómico,alta,medio,árido,español,América,alto,invierno
+Bangkok,gastronómico,media,bajo,tropical,tailandés,Asia,bajo,otoño
+Nápoles,gastronómico,alta,medio,mediterráneo,italiano,Europa,alto,invierno
+Ciudad de México,gastronómico,media,medio,templado,español,América,medio,otoño
+Oporto,gastronómico,media,bajo,oceánico,portugués,Europa,medio,otoño
+Marrakech,gastronómico,media,medio,semiárido,árabe,África,medio,verano
+Buenos Aires,gastronómico,alta,medio,templado,español,América,alto,otoño
+Lyon,gastronómico,alta,alto,oceánico,francés,Europa,medio,primavera
+Barcelona,gastronómico,alta,alto,templado,español,Europa,alto,primavera
+Hanoi,gastronómico,media,alto,tropical,vietnamita,Asia,bajo,invierno
+Tokio,gastronómico,baja,medio,templado,japonés,Asia,bajo,otoño
+Nueva Orleans,gastronómico,baja,medio,subtropical,inglés,América,bajo,verano
+Osaka,gastronómico,alta,medio,subtropical,japonés,Asia,medio,otoño
+Estambul,gastronómico,alta,alto,templado,turco,Europa,medio,verano
+Copenhague,gastronómico,alta,bajo,oceánico,danés,Europa,alto,invierno
+Beirut,gastronómico,alta,alto,mediterráneo,árabe,Asia,bajo,verano
+Singapur,gastronómico,baja,bajo,tropical,inglés,Asia,alto,invierno
+San Sebastián,gastronómico,baja,alto,oceánico,español,Europa,alto,otoño
+Ho Chi Minh,gastronómico,alta,alto,tropical,vietnamita,Asia,medio,primavera
+Bologna,gastronómico,baja,medio,mediterráneo,italiano,Europa,medio,verano
+Nueva Orleans Capital,gastronómico,baja,medio,subtropical,inglés,América,alto,verano
+Osaka Centro,gastronómico,media,bajo,subtropical,japonés,Asia,bajo,verano
+Oporto Ciudad,gastronómico,media,medio,oceánico,portugués,Europa,medio,primavera
+Buenos Aires Centro,gastronómico,alta,alto,templado húmedo,español,América,alto,invierno
+Copenhague Centro,gastronómico,alta,medio,oceánico,danés,Europa,bajo,invierno
+Nápoles Ciudad,gastronómico,baja,bajo,mediterráneo,italiano,Europa,alto,verano
+Bologna Centro,gastronómico,media,alto,mediterráneo,italiano,Europa,alto,verano
+Estambul Capital,gastronómico,alta,bajo,mediterráneo,turco,Europa,medio,invierno
+Beirut Centro,gastronómico,alta,alto,mediterráneo,árabe,Asia,medio,invierno
+Lyon Capital,gastronómico,baja,bajo,oceánico,francés,Europa,medio,otoño
+Lima Centro,gastronómico,baja,alto,desértico,español,América,bajo,invierno
+Beirut Capital,gastronómico,baja,alto,mediterráneo,árabe,Asia,alto,primavera
+Ciudad de México Capital,gastronómico,baja,bajo,templado,español,América,bajo,otoño
+Bologna Centro Centro,gastronómico,alta,alto,mediterráneo,italiano,Europa,medio,verano
+Bologna Centro,gastronómico,baja,bajo,mediterráneo,italiano,Europa,medio,primavera
+Nueva Orleans Capital Ciudad,gastronómico,baja,bajo,subtropical,inglés,América,alto,otoño
+Beirut Centro Capital,gastronómico,media,medio,mediterráneo,árabe,Asia,medio,primavera
+Estambul Capital Capital,gastronómico,alta,bajo,mediterráneo,turco,Europa,bajo,otoño
+Copenhague Ciudad,gastronómico,alta,medio,oceánico,danés,Europa,bajo,primavera
+Singapur Ciudad,gastronómico,alta,bajo,tropical,inglés,Asia,bajo,invierno
+Singapur Ciudad,gastronómico,alta,medio,tropical,inglés,Asia,alto,otoño
+Copenhague Ciudad Capital,gastronómico,alta,alto,oceánico,danés,Europa,bajo,verano
+Ho Chi Minh Capital,gastronómico,media,alto,tropical,vietnamita,Asia,medio,verano
+Beirut Centro Capital Ciudad,gastronómico,baja,bajo,mediterráneo,árabe,Asia,medio,invierno
+Nápoles Ciudad,gastronómico,baja,medio,mediterráneo,italiano,Europa,alto,invierno
+Hanoi Centro,gastronómico,baja,medio,tropical,vietnamita,Asia,alto,invierno
+Estambul Capital Ciudad,gastronómico,alta,medio,mediterráneo,turco,Europa,bajo,primavera
+Osaka Centro Capital,gastronómico,baja,bajo,subtropical,japonés,Asia,medio,otoño
+Nueva Orleans Capital Ciudad Centro,gastronómico,media,medio,subtropical,inglés,América,bajo,verano
+Lyon Centro,gastronómico,media,alto,oceánico,francés,Europa,bajo,verano
+Hanoi Capital,gastronómico,alta,alto,tropical,vietnamita,Asia,bajo,verano
+Bologna Capital,gastronómico,media,medio,mediterráneo,italiano,Europa,bajo,invierno
+Singapur Ciudad,gastronómico,media,alto,tropical,inglés,Asia,alto,otoño
+Copenhague Ciudad Capital Capital,gastronómico,alta,bajo,oceánico,danés,Europa,alto,invierno
+Lima Centro Centro,gastronómico,alta,alto,desértico,español,América,medio,primavera
+Nápoles Ciudad Ciudad,gastronómico,alta,alto,mediterráneo,italiano,Europa,bajo,verano
+Buenos Aires Capital,gastronómico,alta,alto,templado húmedo,español,América,medio,verano
+Hanoi Centro Centro,gastronómico,media,bajo,tropical,vietnamita,Asia,bajo,invierno
+Lyon Centro Ciudad,gastronómico,baja,bajo,oceánico,francés,Europa,alto,invierno
+Estambul Ciudad,gastronómico,alta,medio,mediterráneo,turco,Europa,bajo,verano
